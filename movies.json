@@ -1,5 +1,47 @@
 [
       {
+            "title": "Good Will Hunting",
+            "iscore": 9.7,
+            "rating": "R",
+            "runtime": 110,
+            "released": [1997, 2, 12],
+            "country": "America",
+            "posters": ["img/", "img/", "img/"],
+            "imdb": "https://www.imdb.com/title/tt0119217/",
+            "website": "https://www.miramax.com/movie/good-will-hunting/",
+            "likes": 9999,
+            "dislikes": 0,
+            "posterindex": 0
+      },
+      {
+            "title": "The SpongeBob Movie: Sponge Out of Water",
+            "iscore": 8.1,
+            "rating": "E",
+            "runtime": 92,
+            "released": [2015, 1, 28],
+            "country": "America",
+            "posters": ["img/", "img/", "img/"],
+            "imdb": "https://www.imdb.com/title/tt2279373/",
+            "website": "http://www.nick.co.uk/shows/the-spongebob-movie-sponge-out-of-water/kiseda",
+            "likes": 429,
+            "dislikes": 304,
+            "posterindex": 0
+      },
+      {
+            "title": "The Batman",
+            "iscore": 8.5,
+            "rating": "PG-13",
+            "runtime": 176,
+            "released": [2022, 3, 4],
+            "country": "America",
+            "posters": ["img/stampede1.png", "img/stampede2.png"],
+            "imdb": "https://www.imdb.com/title/tt1877830/",
+            "website": "https://www.thebatman.com/",
+            "likes": 842,
+            "dislikes": 12,
+            "posterindex": 0
+      },
+      {
             "title": "The Shawshank Redemption",
             "iscore": 9.3,
             "rating": "R",
